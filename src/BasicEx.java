@@ -4,6 +4,7 @@ import javax.swing.JPanel;
 
 class Surface extends JPanel {
     int a=1;
+    int b=2;
 
     private void doDrawing(Graphics g) {
 
