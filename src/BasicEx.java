@@ -3,6 +3,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 class Surface extends JPanel {
+    int a=1;
 
     private void doDrawing(Graphics g) {
 
